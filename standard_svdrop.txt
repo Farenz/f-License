@@ -1,0 +1,1 @@
+f-Core -> Svdrop.license == true
